@@ -29,6 +29,20 @@
   --color-blue-700: #175cd3;
   --color-blue-900: #194185;
 
+  --color-success-25: #f6fef9;
+  --color-success-50: #ecfdf3;
+  --color-success-100: #d1fadf;
+  --color-success-600: #039855;
+  --color-success-700: #027a48;
+  --color-success-900: #054f31;
+
+  --color-pink-25: #fef6fb;
+  --color-pink-100: #fce7f6;
+  --color-pink-500: #ee46bc;
+  --color-pink-600: #dd2590;
+  --color-pink-700: #c11574;
+  --color-pink-900: #851651;
+
   --background-image-bank-gradient: linear-gradient(
     90deg,
     #0179fe 0%,
